@@ -136,7 +136,7 @@ fixed用于定位在浏览器的指定位置，页面滚动，他不动，例如
 
 * **color**
 
-颜色，这里猪样讲的颜色值的几种写法，background-color/border-color同样适用。
+颜色，这里主要讲的颜色值的几种格式的写法，background-color/border-color同样适用。
 
 **英文名称**
 
@@ -148,7 +148,7 @@ color:red;
 color:\#000000;(黑色)、color:\#ffffff;(白色)
 黑色和白色是两个极端的色值
 
-**rbg**
+**rgb**
 
 color:rgb(0, 0, 0);、color:rgb(255, 255, 255);
 同样是黑色和白色的两个写法
