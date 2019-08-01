@@ -116,18 +116,22 @@ wiki链接：http://wiki.office.51fanli.com/wiki/Ifanli://m.51fanli.com/app/show
 大致分为三个类型：固定定位(relative)、相对定位(absolute)、绝对定位(fixed);
 值：top、bottom、right、left；
 
-定位区别：relative相对于自己的位置定位，在标准流中；absolute相对于有固定定位的父级元素定位，脱离标准流；fixed相对于浏览器定位，脱离标准流。
+定位区别：relative相对于自己的位置定位，在标准流中；absolute相对于有设置定位的父级元素定位，脱离标准流；fixed相对于浏览器定位，脱离标准流。
 
 
 > 应用场景：
 
 reletive常用于给相对定位的子元素做基准；
+
 absolute做布局使用，可以不在乎其他元素的位置和大小，任意定位在父元素的任意位置；
+
 fixed用于定位在浏览器的指定位置，页面滚动，他不动，例如滚动吸顶的tab栏和定位在浏览器底部的导航栏
+
 
 * **z-index：定位元素的层级**
 
 由于大部分定位元素脱离标准流，不占dom的位置，可以‘漂’在页面的任意位置，这样就有可能发生层叠覆盖，如果不做任何设置，在html中靠下的元素比前边的元素层级要高，会覆盖前边在同一位置定位的元素。
+
 现在我们需要让指定的定位元素优先展示，就需要设置z-index，z-index值越高的元素层级越高，就会覆盖层级底的元素。
 
 * **color**
@@ -175,10 +179,15 @@ top、right、bottom、left四个值。
 **写法：**
 
 margin: 2px;   (top = right = bottom = left = 2px)
+
 margin: 2px 3px; (top =  bottom = 2px; right = left = 3px)
+
 margin: 2px 3px 4px; (top = 2px  bottom = 4px; right = left = 3px)
+
 margin: 2px 3px 4px 5px; (top = 2px; right = 30px;  bottom = 4px; left = 5px)
+
 margin-top: 2px; margin-right: 3px; margin-bottom: 4px; margin-left: 5px; 
+
 
 * **padding：**
 
