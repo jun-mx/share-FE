@@ -60,7 +60,7 @@ UBT.track('common_baoguang', 'prouserid'.getCookie() || 'ZYSCUSERID'.getCookie()
 
 ````
 
-### 4.新开页面的几种方式
+### 4.新开页面(新开webview)的几种方式
 
 * **当前页面打开的两种方式**
 
