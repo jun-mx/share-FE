@@ -14,7 +14,8 @@ CSS 指层叠样式表 (Cascading Style Sheets)
   
   `<div style="width: 100px; height: 60px; background: red; font-size:20px;color: #fff; line-height: 60px; text-align: center;">内联样式</div>`
   
-  2. 嵌入式引入y
+  2. 嵌入式引入
+  
  ![](https://upload-images.jianshu.io/upload_images/7525071-7a88b93a10a06fea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
  
  3. 外部式引入
@@ -34,7 +35,7 @@ CSS 指层叠样式表 (Cascading Style Sheets)
 `div { width: 100px;}`
 `p {font-size: 30px; backgroud-color: gray;}`
 
-   2.  类选择器
+   2. 类选择器
 就是我们常见的class选择器，通过给多种不同的元素设置类名，然后给该类名设相应的样式，类名前加''.''。
 
 ` .calss-name {font-size: 30px; backgroud-color: gray;}`
@@ -112,6 +113,7 @@ Webkit内核(Chrome,Safari)： 前缀为 -webkit
 **animation**: 
 
 使用动画 动画的使用 需要通过animation这个属性,他是一个复合属性,但是再添加子属性时,除时间外,顺序可以打乱
+
 [http://www.w3school.com.cn/cssref/pr_animation.asp](http://www.w3school.com.cn/cssref/pr_animation.asp)
 
 **完整属性:**
