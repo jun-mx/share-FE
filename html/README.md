@@ -52,43 +52,43 @@ html文件就是后缀名为html的文本, 可以在专业编辑器编辑，也�
 
    + **HML4.0与HTML4.0.1：**
    
-    在1997年和1999年，作为升级版本的4.0和4.01也相继成为W3C的推荐标准。
+      在1997年和1999年，作为升级版本的4.0和4.01也相继成为W3C的推荐标准。
   
-    在2000年基于HTML4.01的ISO HTML成为了国际标准化组织和国际电工委员会的标准。于是被沿用至今，这期间虽然有点小的改动但大方向上终归没有什么变化。
+      在2000年基于HTML4.01的ISO HTML成为了国际标准化组织和国际电工委员会的标准。于是被沿用至今，这期间虽然有点小的改动但大方向上终归没有什么变化。
   
-    从1993-2000之间短短的7年时间，HTML语言有着很大的发展，基于诸多人的努力，终于产生了我们现在用的HTML语言。
+      从1993-2000之间短短的7年时间，HTML语言有着很大的发展，基于诸多人的努力，终于产生了我们现在用的HTML语言。
 
    + **XHTML1.0：**
   
-    2000年1月26日发布，是W3C的推荐标准，后于2002年8月1日重新发布。
+      2000年1月26日发布，是W3C的推荐标准，后于2002年8月1日重新发布。
 
-    XHTML 指可扩展超文本标签语言。
+      XHTML 指可扩展超文本标签语言。
+  
+      XHTML 是 HTML 与 XML（扩展标记语言）的结合物。
 
-    XHTML 是 HTML 与 XML（扩展标记语言）的结合物。
-
-    XHTML 包含了所有与 XML 语法结合的 HTML 4.01 元素。
+     XHTML 包含了所有与 XML 语法结合的 HTML 4.01 元素。
 
    + **XHTML1.1：** 2001年5月31日发布。XHTML1.0是XML风格的HTML4.01。XHTML1.1主要是初步进行了模块化。
 
    + **XHTML2.0：**XHTML 2是一种通用的标记语言。但不及HTML5的冲击。XHTML 2的开发工作将于2009年底停止，而资源将用于推动HTML 5的进展。
   
     + **HTML5：**
-    HTML5 是对 HTML 标准的第五次修订，其主要的目标是将互联网语义化，以便更好地被人类和机器阅读，并同时提供更好地支持各种媒体的嵌入。
+      HTML5 是对 HTML 标准的第五次修订，其主要的目标是将互联网语义化，以便更好地被人类和机器阅读，并同时提供更好地支持各种媒体的嵌入。
     
-    而HTML5本身并非技术，而是标准。它所使用的技术早已很成熟，国内通常所说的html5实际上是html与css3及JavaScript和api等的一个组合，大概可以用以下公式说明：HTML5≈HTML+CSS3+JavaScript+API。
+      而HTML5本身并非技术，而是标准。它所使用的技术早已很成熟，国内通常所说的html5实际上是html与css3及JavaScript和api等的一个组合，大概可以用以下公式说明：HTML5≈HTML+CSS3+JavaScript+API。
 
   **注1** ：html5
-   html5兼容html4，在h4的基础上多出了新的标签和规范。
+    html5兼容html4，在h4的基础上多出了新的标签和规范。
 
-   各大主流浏览器对 CSS3 和 HTML5 的支持越来越完善，但是面对的用户群体复杂，需要兼容的浏览器版本也比较多，所以h5的一些新标签和规范没有大范围使用。
+    各大主流浏览器对 CSS3 和 HTML5 的支持越来越完善，但是面对的用户群体复杂，需要兼容的浏览器版本也比较多，所以h5的一些新标签和规范没有大范围使用。
 
-    w3c: http://www.w3school.com.cn/html5/html_5_intro.asp
+      w3c: http://www.w3school.com.cn/html5/html_5_intro.asp
 
-    新特性：https://www.cnblogs.com/greatluoluo/p/5714221.html
+      新特性：https://www.cnblogs.com/greatluoluo/p/5714221.html
 
-     h5的兼容：https://www.cnblogs.com/liuna/p/5505016.html
+      h5的兼容：https://www.cnblogs.com/liuna/p/5505016.html
 
-    https://www.cnblogs.com/zhangyongl/p/6154981.html
+      https://www.cnblogs.com/zhangyongl/p/6154981.html
 
 ### 三.h5新标签和标签的语义化
   * **语义化标签**
