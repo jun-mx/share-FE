@@ -77,7 +77,7 @@ ID选择器和类选择器有些类似，但是差别又十分显著。首先一
 **注2：**  通常在控制台显示样式越靠上，证明优先级越高
 
 ## css3
-* **简介：**最新的css标准
+* **简介：** 最新的css标准
 
 * **前缀**
 CSS3为我们提供了很多让人兴奋的新样式,由于浏览器的兼容性问题,有一些样式并不能很好的支持 不过这并不影响我们学习以及使用它
@@ -93,16 +93,16 @@ CSS3为我们提供了很多让人兴奋的新样式,由于浏览器的兼容性
 
   **2. 示例** ----属性xxx
   
--ms-xxx:  ie浏览器
--moz-xxx:  FireFox浏览器
--o-xxx:  Opera浏览器
--webkit-xxx:  Chrome以及Safari
+  -ms-xxx:  ie浏览器
+  -moz-xxx:  FireFox浏览器
+  -o-xxx:  Opera浏览器
+  -webkit-xxx:  Chrome以及Safari
 
   **3. 主流浏览器内核**
-Trident内核(IE)： 前缀为 -ms
-Gecko内核(FireFox)： 前缀为 -moz
-Presto内核(Opera)： 前缀为 -o
-Webkit内核(Chrome,Safari)： 前缀为 -webkit
+  Trident内核(IE)： 前缀为 -ms
+  Gecko内核(FireFox)： 前缀为 -moz
+  Presto内核(Opera)： 前缀为 -o
+  Webkit内核(Chrome,Safari)： 前缀为 -webkit
 
 * **颜色渐变**
 1. 线性渐变
@@ -120,7 +120,7 @@ Webkit内核(Chrome,Safari)： 前缀为 -webkit
 
 * **动画**
 
-**@keyframes** : 制定动画内容
+**@keyframes** :  制定动画内容
 
 `@keyframes animationname {动画内容}`
 
